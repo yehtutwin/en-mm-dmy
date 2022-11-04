@@ -1,0 +1,31 @@
+{
+  "name": "en-mm-dmy",
+  "version": "1.0.0",
+  "description": "နေ့စွဲတစ်ခုမှ မြန်မာ၊ အင်္ဂလိပ် နေ့၊​ လ၊​ နှစ် များရယူခြင်း",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "english date",
+    "myanmar date",
+    "myanmar year",
+    "myanmar month",
+    "myanmar day",
+    "myanmar days in a week",
+    "myanmar months in a year"
+  ],
+  "author": "yehtutwin",
+  "license": "ISC",
+  "dependencies": {
+    "num-2-myanmar-english": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yehtutwin/en-mm-dmy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yehtutwin/en-mm-dmy/issues"
+  },
+  "homepage": "https://github.com/yehtutwin/en-mm-dmy#readme"
+}
